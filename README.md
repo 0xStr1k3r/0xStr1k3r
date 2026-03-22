@@ -62,7 +62,7 @@ chiranjeevi@darknode:~$ cat whoami.json
 </p>
 
 ## Verified Links
-- Portfolio: [chiranjeevi.tech](https://chiranjeevi.tech)
+- Portfolio: [0xchiru.dev](https://0xchiru.dev)
 - GitHub: [github.com/0xStr1k3r](https://github.com/0xStr1k3r)
 - LinkedIn: [linkedin.com/in/chiranjeevidiviti463](https://linkedin.com/in/chiranjeevidiviti463)
 - TryHackMe: [tryhackme.com/p/0xStr1k3r](https://tryhackme.com/p/0xStr1k3r)
@@ -95,5 +95,5 @@ chiranjeevi@darknode:~$ cat whoami.json
 
 ## Contact
 - Email: [divitichiranjeevi463@gmail.com](mailto:divitichiranjeevi463@gmail.com)
-- Portfolio: [chiranjeevi.tech](https://chiranjeevi.tech)
+- Portfolio: [0xchiru.dev](https://0xchiru.dev)
 - LinkedIn: [linkedin.com/in/chiranjeevidiviti463](https://linkedin.com/in/chiranjeevidiviti463)

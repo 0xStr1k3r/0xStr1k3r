@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://chiranjeevi.tech" target="_blank">Portfolio</a> •
+  <a href="https://0xchiru.dev" target="_blank">Portfolio</a> •
   <a href="https://github.com/0xStr1k3r" target="_blank">GitHub</a> •
   <a href="https://linkedin.com/in/chiranjeevidiviti463" target="_blank">LinkedIn</a> •
   <a href="https://tryhackme.com/p/0xStr1k3r" target="_blank">TryHackMe</a>
